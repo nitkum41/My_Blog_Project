@@ -1,5 +1,8 @@
 # My_Blog_Project
-using django 3.0
-class based views
-User Login 
-Templates
+1.using django 3.0
+
+2.class based views
+
+3.User Login 
+
+4.Templates
